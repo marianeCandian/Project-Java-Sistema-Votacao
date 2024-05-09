@@ -5,7 +5,7 @@ Este projeto é um sistema de votação desenvolvido em Java, que explora os con
 ## Funcionalidades
 
 - Criação de eleições com data de início e término.
-- Cadastro de eleitores com nome e título de eleitor.
+- Cadastro de eleitores com nome e CPF.
 - Registro de candidatos e partidos políticos.
 - Votação em candidatos por parte dos eleitores.
 - Contagem dos votos e divulgação dos resultados.
